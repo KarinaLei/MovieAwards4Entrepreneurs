@@ -1,5 +1,5 @@
 # Navigating The Shoppies
-Visit karinalei.github.io/Shopify-FrontEnd-Challenge and view the web-app.
+Visit karinalei.github.io/MovieAwards4Entrepreneurs and view the web-app.
 
 OMDB API's key has been included in the code for demonstrating purposes only.
 
